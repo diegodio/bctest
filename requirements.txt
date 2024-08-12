@@ -3,5 +3,5 @@ streamlit==1.27.2  # currently pinned to this version
 numpy
 altair
 pandas
-opencv-python
-libgl1
+opencv-python-headless
+
