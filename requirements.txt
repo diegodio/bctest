@@ -4,3 +4,4 @@ numpy
 altair
 pandas
 opencv-python
+libgl1
